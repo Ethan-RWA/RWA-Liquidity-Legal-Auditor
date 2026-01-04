@@ -1,3 +1,6 @@
+> **⚠️ Note: This repository is currently in active migration.** > The core auditing logic is being refactored from private research scripts into this public framework. 
+> The skeleton is up, and the specific extraction modules are being pushed incrementally this week.
+
 # RWA Liquidity & Legal Auditor 🔍
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
